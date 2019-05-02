@@ -1,2 +1,2 @@
 # Misc-PoGo-Stuffs
-Misc stuff used in Starota for PoGo like event data
+Misc stuff used in [Starota](http://github.com/Selim042/Starota) for PoGo, like event data.
