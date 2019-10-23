@@ -8,8 +8,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/076_f2.png",
+        "type2": "ELECTRIC",
         "shinyable": true
       }
     ]
@@ -23,12 +26,12 @@
     },
     "otherForms": [
       {
-        "name": "Plant",
+        "name": "Sandy",
         "goHubFormId": -1,
         "shinyable": false
       },
       {
-        "name": "Plant",
+        "name": "Trash",
         "goHubFormId": -1,
         "shinyable": false
       }
@@ -43,8 +46,12 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/105_f2.png",
+        "type1": "FIRE",
+        "type2": "GHOST",
         "shinyable": true
       }
     ]
@@ -58,7 +65,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -73,7 +80,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -88,19 +95,25 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Sunny",
         "goHubFormId": -1,
-        "shinyable": true
+        "goHubFormName": "sunny",
+        "type1": "FIRE",
+        "shinyable": false
       },
       {
-        "name": "Normal",
+        "name": "Rainy",
         "goHubFormId": -1,
-        "shinyable": true
+        "goHubFormName": "rainy",
+        "type1": "WATER",
+        "shinyable": false
       },
       {
-        "name": "Normal",
+        "name": "Snowy",
         "goHubFormId": -1,
-        "shinyable": true
+        "goHubFormName": "snowy",
+        "type1": "ICE",
+        "shinyable": false
       }
     ]
   },
@@ -114,9 +127,9 @@
     },
     "otherForms": [
       {
-        "name": "West Sea",
-        "goHubFormId": 1,
-        "image": "https://db.pokemongohub.net/images/official/full/422_f2.png",
+        "name": "East Sea",
+        "goHubFormId": 0,
+        "goHubFormName": "east",
         "shinyable": false
       }
     ]
@@ -130,9 +143,13 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
-        "shinyable": false
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/038_f2.png",
+        "type1": "ICE",
+        "type2": "FAIRY",
+        "shinyable": true
       }
     ]
   },
@@ -145,7 +162,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -160,9 +177,12 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
-        "shinyable": false
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/103_f2.png",
+        "type2": "DRAGON",
+        "shinyable": true
       }
     ]
   },
@@ -175,7 +195,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Halloween",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -190,8 +210,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/075_f2.png",
+        "type2": "ELECTRIC",
         "shinyable": true
       }
     ]
@@ -205,8 +228,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/074_f2.png",
+        "type2": "ELECTRIC",
         "shinyable": true
       }
     ]
@@ -220,7 +246,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -235,97 +261,97 @@
     },
     "otherForms": [
       {
-        "name": "1",
+        "name": "2",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "3",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "4",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "5",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "6",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "7",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "8",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "9",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "10",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "11",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "12",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "13",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "14",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "15",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "16",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "17",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "18",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "19",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "1",
+        "name": "20",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -340,8 +366,10 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Armored",
+        "goHubFormId": 4,
+        "goHubFormName": "Armored",
+        "image": "https://db.pokemongohub.net/images/official/full/150_f4.png",
         "shinyable": true
       }
     ]
@@ -355,8 +383,12 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/028_f2.png",
+        "type1": "ICE",
+        "type2": "STEEL",
         "shinyable": true
       }
     ]
@@ -370,9 +402,13 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
-        "shinyable": false
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/053_f2.png",
+        "type1": "DARK",
+        "type2": "NORMAL",
+        "shinyable": true
       }
     ]
   },
@@ -385,12 +421,12 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Glasses",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Halloween",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -405,8 +441,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/050_f2.png",
+        "type2": "STEEL",
         "shinyable": true
       }
     ]
@@ -420,7 +459,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Halloween",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -435,9 +474,13 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
-        "shinyable": false
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/037_f2.png",
+        "type1": "ICE",
+        "type2": "FIRE",
+        "shinyable": true
       }
     ]
   },
@@ -451,9 +494,9 @@
     },
     "otherForms": [
       {
-        "name": "West Sea",
-        "goHubFormId": 1,
-        "image": "https://db.pokemongohub.net/images/official/full/423_f2.png",
+        "name": "East Sea",
+        "goHubFormId": 0,
+        "goHubFormName": "east",
         "shinyable": false
       }
     ]
@@ -467,7 +510,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -487,52 +530,52 @@
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Santa Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Party Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Witch Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Summer Hat",
+        "goHubFormId": -1,
+        "shinyable": false
+      },
+      {
+        "name": "Ash Hat",
+        "goHubFormId": -1,
+        "shinyable": false
+      },
+      {
+        "name": "H.F. Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Flower",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Detective",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Straw Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
-        "goHubFormId": -1,
-        "shinyable": true
-      },
-      {
-        "name": "Normal",
-        "goHubFormId": -1,
-        "shinyable": true
-      },
-      {
-        "name": "Normal",
+        "name": "Halloween",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -547,9 +590,13 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
-        "shinyable": false
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/052_f2.png",
+        "type1": "DARK",
+        "type2": "NORMAL",
+        "shinyable": true
       }
     ]
   },
@@ -562,8 +609,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/089_f2.png",
+        "type2": "DARK",
         "shinyable": true
       }
     ]
@@ -577,8 +627,12 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/020_f2.png",
+        "type1": "DARK",
+        "type2": "NORMAL",
         "shinyable": true
       }
     ]
@@ -592,7 +646,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -607,8 +661,12 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/019_f2.png",
+        "type1": "DARK",
+        "type2": "NORMAL",
         "shinyable": true
       }
     ]
@@ -622,7 +680,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": false
       }
@@ -637,8 +695,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/088_f2.png",
+        "type2": "DARK",
         "shinyable": true
       }
     ]
@@ -652,8 +713,12 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/027_f2.png",
+        "type1": "ICE",
+        "type2": "STEEL",
         "shinyable": true
       }
     ]
@@ -667,49 +732,51 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Santa Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Party Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Witch Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Summer Hat",
+        "goHubFormId": -1,
+        "shinyable": false
+      },
+      {
+        "name": "Ash Hat",
+        "goHubFormId": -1,
+        "shinyable": false
+      },
+      {
+        "name": "H.F. Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Flower",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Detective",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
-        "goHubFormId": -1,
-        "shinyable": true
-      },
-      {
-        "name": "Normal",
-        "goHubFormId": -1,
-        "shinyable": true
-      },
-      {
-        "name": "Normal",
-        "goHubFormId": -1,
-        "shinyable": true
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/026_f2.png",
+        "shinyable": false
       }
     ]
   },
@@ -722,8 +789,10 @@
     },
     "otherForms": [
       {
-        "name": "Overcast",
-        "goHubFormId": -1,
+        "name": "Sunny",
+        "goHubFormId": 1,
+        "goHubFormName": "sunny",
+        "image": "https://db.pokemongohub.net/images/official/full/421_f2.png",
         "shinyable": false
       }
     ]
@@ -737,7 +806,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -752,8 +821,11 @@
     },
     "otherForms": [
       {
-        "name": "Kantonian",
-        "goHubFormId": 0,
+        "name": "Alolan",
+        "goHubFormId": 1,
+        "goHubFormName": "Alola",
+        "image": "https://db.pokemongohub.net/images/official/full/051_f2.png",
+        "type2": "STEEL",
         "shinyable": true
       }
     ]
@@ -767,13 +839,15 @@
     },
     "otherForms": [
       {
-        "name": "Plant",
-        "goHubFormId": 0,
+        "name": "Sandy",
+        "goHubFormId": 1,
+        "type2": "GROUND",
         "shinyable": false
       },
       {
-        "name": "Plant",
-        "goHubFormId": 0,
+        "name": "Trash",
+        "goHubFormId": 2,
+        "type2": "STEEL",
         "shinyable": false
       }
     ]
@@ -787,7 +861,7 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Flowers",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -803,9 +877,10 @@
     },
     "otherForms": [
       {
-        "name": "Altered",
-        "goHubFormId": 0,
-        "goHubFormName": "Altered",
+        "name": "Origin",
+        "goHubFormId": 1,
+        "goHubFormName": "Origin",
+        "image": "https://db.pokemongohub.net/images/official/full/487_f2.png",
         "shinyable": true
       }
     ]
@@ -819,12 +894,12 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Glasses",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Halloween",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -839,12 +914,12 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Glasses",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Halloween",
         "goHubFormId": -1,
         "shinyable": true
       }
@@ -859,28 +934,38 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Heat",
+        "goHubFormId": 3,
+        "goHubFormName": "heat",
+        "type2": "FIRE",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Wash",
+        "goHubFormId": 5,
+        "goHubFormName": "wash",
+        "type2": "WATER",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Frost",
+        "goHubFormId": 2,
+        "goHubFormName": "frost",
+        "type2": "ICE",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Fan",
+        "goHubFormId": 1,
+        "goHubFormName": "fan",
+        "type2": "FLYING",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Mow",
+        "goHubFormId": 4,
+        "goHubFormName": "mow",
+        "type2": "GRASS",
         "shinyable": false
       }
     ]
@@ -894,29 +979,29 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
+        "name": "Santa Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Party Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Witch Hat",
         "goHubFormId": -1,
         "shinyable": true
       },
       {
-        "name": "Normal",
+        "name": "Summer Hat",
         "goHubFormId": -1,
-        "shinyable": true
+        "shinyable": false
       },
       {
-        "name": "Normal",
+        "name": "Ash Hat",
         "goHubFormId": -1,
-        "shinyable": true
+        "shinyable": false
       }
     ]
   },
@@ -930,165 +1015,165 @@
     },
     "otherForms": [
       {
-        "name": "F",
+        "name": "A",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "a",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "B",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "b",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "C",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "c",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "D",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "d",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "E",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "e",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "G",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "g",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "H",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "h",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "I",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "i",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "J",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "j",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "K",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "k",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "L",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "l",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "M",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "m",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "N",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "n",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "O",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "o",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "P",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "p",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "Q",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "q",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "R",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "r",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "S",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "s",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "T",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "t",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "U",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "u",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "V",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "v",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "W",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "w",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "X",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "x",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "Y",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "y",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "Z",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "z",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "!",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "exclaimation",
         "shinyable": false
       },
       {
-        "name": "F",
+        "name": "?",
         "goHubFormId": -1,
-        "goHubFormName": "f",
+        "goHubFormName": "question",
         "shinyable": false
       }
     ]
@@ -1102,18 +1187,24 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Attack",
+        "goHubFormId": 1,
+        "goHubFormName": "Attack",
+        "image": "https://db.pokemongohub.net/images/official/full/386_f2.png",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Defense",
+        "goHubFormId": 2,
+        "goHubFormName": "Defense",
+        "image": "https://db.pokemongohub.net/images/official/full/386_f3.png",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 0,
+        "name": "Speed",
+        "goHubFormId": 3,
+        "goHubFormName": "Speed",
+        "image": "https://db.pokemongohub.net/images/official/full/386_f4.png",
         "shinyable": false
       }
     ]
@@ -1127,88 +1218,105 @@
     },
     "otherForms": [
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Fire",
+        "goHubFormId": 6,
+        "type1": "FIRE",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Fighting",
+        "goHubFormId": 5,
+        "type1": "FIGHTING",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Water",
+        "goHubFormId": 17,
+        "type1": "WATER",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Flying",
+        "goHubFormId": 7,
+        "type1": "FLYING",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Grass",
+        "goHubFormId": 9,
+        "type1": "GRASS",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Poison",
+        "goHubFormId": 13,
+        "type1": "POISON",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Electric",
+        "goHubFormId": 3,
+        "type1": "ELECTRIC",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Ground",
+        "goHubFormId": 10,
+        "type1": "GROUND",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Psychic",
+        "goHubFormId": 14,
+        "type1": "PSYCHIC",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Rock",
+        "goHubFormId": 15,
+        "type1": "ROCK",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Ice",
+        "goHubFormId": 11,
+        "type1": "ICE",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Bug",
+        "goHubFormId": 0,
+        "type1": "BUG",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Dragon",
+        "goHubFormId": 2,
+        "type1": "DRAGON",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Ghost",
+        "goHubFormId": 8,
+        "type1": "GHOST",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Dark",
+        "goHubFormId": 1,
+        "type1": "DARK",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Steel",
+        "goHubFormId": 16,
+        "type1": "STEEL",
         "shinyable": false
       },
       {
-        "name": "Normal",
-        "goHubFormId": 12,
+        "name": "Fairy",
+        "goHubFormId": 4,
+        "type1": "FAIRY",
         "shinyable": false
       }
     ]
