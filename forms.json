@@ -1,0 +1,1216 @@
+{
+  "GOLEM": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "BURMY": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Plant",
+      "goHubFormId": -1,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Plant",
+        "goHubFormId": -1,
+        "shinyable": false
+      },
+      {
+        "name": "Plant",
+        "goHubFormId": -1,
+        "shinyable": false
+      }
+    ]
+  },
+  "MAROWAK": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "GLACEON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "JOLTEON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "CASTFORM": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "SHELLOS": {
+    "version": 1,
+    "defaultForm": {
+      "name": "West Sea",
+      "goHubFormId": 1,
+      "image": "https://db.pokemongohub.net/images/official/full/422_f2.png",
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "West Sea",
+        "goHubFormId": 1,
+        "image": "https://db.pokemongohub.net/images/official/full/422_f2.png",
+        "shinyable": false
+      }
+    ]
+  },
+  "NINETALES": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "LEAFEON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "EXEGGUTOR": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "CHARMANDER": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "GRAVELER": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "GEODUDE": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "FLAREON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "SPINDA": {
+    "version": 1,
+    "defaultForm": {
+      "name": "1",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "1",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "MEWTWO": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "SANDSLASH": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "PERSIAN": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "BLASTOISE": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "DIGLETT": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "BULBASAUR": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "VULPIX": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "GASTRODON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "West Sea",
+      "goHubFormId": 1,
+      "image": "https://db.pokemongohub.net/images/official/full/423_f2.png",
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "West Sea",
+        "goHubFormId": 1,
+        "image": "https://db.pokemongohub.net/images/official/full/423_f2.png",
+        "shinyable": false
+      }
+    ]
+  },
+  "VAPOREON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "PIKACHU": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "MEOWTH": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "MUK": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "RATICATE": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "UMBREON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "RATTATA": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "SYLVEON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": false
+      }
+    ]
+  },
+  "GRIMER": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "SANDSHREW": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "RAICHU": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "CHERRIM": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Overcast",
+      "goHubFormId": -1,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Overcast",
+        "goHubFormId": -1,
+        "shinyable": false
+      }
+    ]
+  },
+  "ESPEON": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "DUGTRIO": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Kantonian",
+        "goHubFormId": 0,
+        "shinyable": true
+      }
+    ]
+  },
+  "WORMADAM": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Plant",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Plant",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Plant",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "EEVEE": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "GIRATINA": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Altered",
+      "goHubFormId": 0,
+      "goHubFormName": "Altered",
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Altered",
+        "goHubFormId": 0,
+        "goHubFormName": "Altered",
+        "shinyable": true
+      }
+    ]
+  },
+  "SQUIRTLE": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "WARTORTLE": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "ROTOM": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "PICHU": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": -1,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": -1,
+        "shinyable": true
+      }
+    ]
+  },
+  "UNOWN": {
+    "version": 1,
+    "defaultForm": {
+      "name": "F",
+      "goHubFormId": -1,
+      "goHubFormName": "f",
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      },
+      {
+        "name": "F",
+        "goHubFormId": -1,
+        "goHubFormName": "f",
+        "shinyable": false
+      }
+    ]
+  },
+  "DEOXYS": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": 0,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 0,
+        "shinyable": false
+      }
+    ]
+  },
+  "ARCEUS": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Normal",
+      "goHubFormId": 12,
+      "shinyable": false
+    },
+    "otherForms": [
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      },
+      {
+        "name": "Normal",
+        "goHubFormId": 12,
+        "shinyable": false
+      }
+    ]
+  }
+}
