@@ -1,4 +1,22 @@
 {
+  "WEEZING": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Kantonian",
+      "goHubFormId": 0,
+      "shinyable": true
+    },
+    "otherForms": [
+      {
+        "name": "Galarian",
+        "goHubFormId": 1,
+        "goHubFormName": "Galarian",
+        "image": "https://db.pokemongohub.net/images/official/full/110_galar.png",
+        "type2": "FAIRY",
+        "shinyable": false
+      }
+    ]
+  },
   "GOLEM": {
     "version": 1,
     "defaultForm": {
