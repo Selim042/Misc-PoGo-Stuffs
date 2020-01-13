@@ -1,4 +1,17 @@
 {
+  "BASCULIN": {
+    "version": 1,
+    "defaultForm": {
+      "name": "Blue-Stripe",
+      "goHubFormId": 0
+    },
+    "otherForms": [
+      {
+        "name": "Red-Stripe",
+        "goHubFormId": 1
+      }
+    ]
+  },
   "WURMPLE": {
     "version": 1,
     "defaultForm": {
