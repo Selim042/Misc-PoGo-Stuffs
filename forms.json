@@ -3,14 +3,14 @@
     "version": 1,
     "defaultForm": {
       "name": "Blue-Stripe",
-      "goHubFormId": 0,
-      "image": "https://db.pokemongohub.net/images/official/full/550_f2.png"
+      "goHubFormName": "Blue Striped",
+      "goHubFormId": 1
     },
     "otherForms": [
       {
         "name": "Red-Stripe",
-        "goHubFormId": 1,
-        "image": "https://db.pokemongohub.net/images/official/full/550.png"
+        "goHubFormName": "Red Striped",
+        "goHubFormId": 0
       }
     ]
   },
