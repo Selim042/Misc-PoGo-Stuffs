@@ -3,12 +3,12 @@
     "version": 1,
     "defaultForm": {
       "name": "Blue-Stripe",
-      "goHubFormId": 0
+      "goHubFormId": 1
     },
     "otherForms": [
       {
         "name": "Red-Stripe",
-        "goHubFormId": 1
+        "goHubFormId": 0
       }
     ]
   },
