@@ -184,6 +184,7 @@
     "version": 1,
     "defaultForm": {
       "name": "West Sea",
+      "goHubFormName": "West",
       "goHubFormId": 1,
       "image": "https://db.pokemongohub.net/images/official/full/422_f2.png",
       "shinyable": false
@@ -191,6 +192,7 @@
     "otherForms": [
       {
         "name": "East Sea",
+        "goHubFormName": "East",
         "goHubFormId": 0,
         "goHubFormName": "east",
         "shinyable": false
@@ -551,6 +553,7 @@
     "version": 1,
     "defaultForm": {
       "name": "West Sea",
+      "goHubFormName": "West",
       "goHubFormId": 1,
       "image": "https://db.pokemongohub.net/images/official/full/423_f2.png",
       "shinyable": false
@@ -558,6 +561,7 @@
     "otherForms": [
       {
         "name": "East Sea",
+        "goHubFormName": "EAST",
         "goHubFormId": 0,
         "goHubFormName": "east",
         "shinyable": false
